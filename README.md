@@ -2,7 +2,7 @@
 
 ## Citation
 This repository contains the input files and calculated data used to generate the results and figures for the manuscript:  
-Zhao Tang, Dingxin Fan, and James R. Chelikowsky, *Real Space Simulation for State-Resolved High-Resolution Atomic Force Microscopy of Defects in Monolayer h-BN*, submitted to Physical Review Materials (2025).  
+Zhao Tang, Dingxin Fan, and James R. Chelikowsky, *Real space simulation for state-resolved high-resolution atomic force microscopy of defects in monolayer h-BN*, submitted to Physical Review Materials (2025).  
 
 ## Repository contents
 The repository is organized by the system simulated. Each top-level directory contains the data for a specific sample (or tip) structure and electronic state.  
